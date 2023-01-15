@@ -114,7 +114,7 @@
 		</Row>
     
     <!-- Leader Dialog -->
-    <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JASPER_KITTY_ANY" Language="en_US">
+    <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_DRAGON_ANY" Language="en_US">
       <Text>What's up?</Text>
     </Row>
 

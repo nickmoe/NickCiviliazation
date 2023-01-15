@@ -15,7 +15,7 @@
 			<LeaderAbilityName>LOC_TRAIT_LEADER_DOVAHTUZ_NAME</LeaderAbilityName>
 			<LeaderAbilityDescription>LOC_TRAIT_LEADER_DOVAHTUZ_DESCRIPTION</LeaderAbilityDescription>
 			<LeaderAbilityIcon>ICON_LEADER_DOVAHTUZ</LeaderAbilityIcon>
-			<Portrait>LEADER_JASPER_KITTY_NEUTRAL</Portrait>
+			<Portrait>LEADER_DRAGON_NEUTRAL</Portrait>
 		</Row>
 	</Players>
 	<PlayerItems>
