@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_DOVAHTUZ</CivilizationType>
+			<LeaderType>LEADER_DOVAHTUZ</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DOVAHTUZ_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DOVAHTUZ</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DOVAHTUZ</LeaderName>
+			<LeaderIcon>ICON_LEADER_DOVAHTUZ</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_DOVAHTUZ_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_DOVAHTUZ_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DOVAHTUZ</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_DOVAHTUZ_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_DOVAHTUZ_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DOVAHTUZ</LeaderAbilityIcon>
+			<Portrait>LEADER_DRAGON_NEUTRAL</Portrait>
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_DOVAHTUZ</CivilizationType>
+			<LeaderType>LEADER_DOVAHTUZ</LeaderType>
+			<Type>BUILDING_DOVAHTUZ</Type>
+			<Name>LOC_BUILDING_DOVAHTUZ_NAME</Name>
+			<Description>LOC_BUILDING_DOVAHTUZ_DESCRIPTION</Description>
+			<Icon>ICON_BUILDING_DOVAHTUZ</Icon>
+			<SortIndex>10</SortIndex>
+		</Row>
+	</PlayerItems>
+</GameData>
