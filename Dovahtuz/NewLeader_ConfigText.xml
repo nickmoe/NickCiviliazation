@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Row Tag="LOC_CIVILIZATION_FELINE_NAME" Language="en_US">
-			<Text>The Felines</Text>
+		<Row Tag="LOC_CIVILIZATION_DOVAHTUZ_NAME" Language="en_US">
+			<Text>Dovahtuz</Text>
 		</Row>
 		
-		<Row Tag="LOC_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
-			<Text>The Majestic Felines</Text>
+		<Row Tag="LOC_CIVILIZATION_DOVAHTUZ_DESCRIPTION" Language="en_US">
+			<Text>Dovahtuz</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_FELINE_ADJECTIVE" Language="en_US">
-			<Text>Feline</Text>
+		<Row Tag="LOC_CIVILIZATION_DOVAHTUZ_ADJECTIVE" Language="en_US">
+			<Text>Adjective</Text>
 		</Row>
 		
-		<Row Tag="LOC_LEADER_JASPER_KITTY_NAME" Language="en_US">
-			<Text>Jasper Kitty</Text>
+		<Row Tag="LOC_LEADER_DOVAHTUZ" Language="en_US">
+			<Text>Dragon</Text>
 		</Row>
 
-		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
-			<Text>Cat like reflexes</Text>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DOVAHTUZ_NAME" Language="en_US">
+			<Text>Civ Trait Name</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
-			<Text>So fast!</Text>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DOVAHTUZ_DESCRIPTION" Language="en_US">
+			<Text>Civ Trait Description</Text>
 		</Row>
 		
-		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
-			<Text>Kitty Claws</Text>
+		<Row Tag="LOC_TRAIT_LEADER_DOVAHTUZ_NAME" Language="en_US">
+			<Text>Leader Trait Name</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
-			<Text>So sharp!</Text>
+		<Row Tag="LOC_TRAIT_LEADER_DOVAHTUZ_DESCRIPTION" Language="en_US">
+			<Text>Leader Trait Desc</Text>
 		</Row>
 
-		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="en_US">
-			<Text>Litter Box</Text>
+		<Row Tag="LOC_BUILDING_DOVAHTUZ_NAME" Language="en_US">
+			<Text>Building Name</Text>
 		</Row>
 		
-		<Row Tag="LOC_BUILDING_LITTER_BOX_DESCRIPTION" Language="en_US">
-			<Text>The litter box is a unique building that only Felines get.</Text>
+		<Row Tag="LOC_BUILDING_DOVAHTUZ_DESCRIPTION" Language="en_US">
+			<Text>Building Description</Text>
 		</Row>
 	</LocalizedText>
 </GameData>
