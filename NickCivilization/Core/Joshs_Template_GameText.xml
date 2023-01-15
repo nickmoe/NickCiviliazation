@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_JRA_CIV_CUSTOM_NAME" Language="en_US">
+			<Text>Dovahtuz</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JRA_CIV_CUSTOM_DESCRIPTION" Language="en_US">
+			<Text>Dovahtuz</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JRA_CIV_CUSTOM_ADJECTIVE" Language="en_US">
+			<Text>Dovahtuz</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JRA_CIV_CUSTOM_DESCRIPTION_JRA_CIVILIZATION" Language="en_US">
+			<Text>Dovahtuz</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_JRA_CIV_CUSTOM_LOCATION" Language="en_US">
+			<Text>Iowa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JRA_CIV_CUSTOM_POPULATION" Language="en_US">
+			<Text>1</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JRA_CIV_CUSTOM_SIZE" Language="en_US">
+			<Text>Medium</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JRA_CIV_CUSTOM_CAPITAL" Language="en_US">
+			<Text>Iowa</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JRA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Lorem ipsum</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JRA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JRA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JRA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JRA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text></Text>
+		</Row>
+		
+		
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_1" Language="en_US">
+			<Text>Iowa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_2" Language="en_US">
+			<Text>Oak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_3" Language="en_US">
+			<Text>Windsor Crest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_4" Language="en_US">
+			<Text>Fountain View</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_5" Language="en_US">
+			<Text>The Heights</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_6" Language="en_US">
+			<Text>Squaw Creek</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_7" Language="en_US">
+			<Text>Winwood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_8" Language="en_US">
+			<Text>Broadmoor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_9" Language="en_US">
+			<Text>Reed</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_10" Language="en_US">
+			<Text>Moeller</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_11" Language="en_US">
+			<Text>Davenport</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_12" Language="en_US">
+			<Text>Ames</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_13" Language="en_US">
+			<Text>Johnston</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_14" Language="en_US">
+			<Text>Des Moines</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_15" Language="en_US">
+			<Text>Urbandale</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_16" Language="en_US">
+			<Text>16</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_17" Language="en_US">
+			<Text>17</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_18" Language="en_US">
+			<Text>18</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_19" Language="en_US">
+			<Text>19</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_20" Language="en_US">
+			<Text>20</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_21" Language="en_US">
+			<Text>21</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_22" Language="en_US">
+			<Text>22</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_23" Language="en_US">
+			<Text>23</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_24" Language="en_US">
+			<Text>24</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_25" Language="en_US">
+			<Text>25</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_26" Language="en_US">
+			<Text>26</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_27" Language="en_US">
+			<Text>27</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_28" Language="en_US">
+			<Text>28</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_29" Language="en_US">
+			<Text>29</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JRA_CIV_CUSTOM_30" Language="en_US">
+			<Text>30</Text>
+		</Row>
+		
+		
+		
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_1" Language="en_US">
+			<Text>Nick</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_2" Language="en_US">
+			<Text>Lee</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_3" Language="en_US">
+			<Text>Wolf</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_4" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_5" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_6" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_7" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_8" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MALE_9" Language="en_US">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_1" Language="en_US">
+			<Text>Nick</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_2" Language="en_US">
+			<Text>Niklaus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_3" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_4" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_5" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_6" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_7" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_8" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_9" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_MALE_10" Language="en_US">
+			<Text>Some Modern Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_1" Language="en_US">
+			<Text>Nikki</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_2" Language="en_US">
+			<Text>Nike</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_3" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_4" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_5" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_6" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_7" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_8" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_9" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_FEMALE_10" Language="en_US">
+			<Text>Some Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_1" Language="en_US">
+			<Text>Leigh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_2" Language="en_US">
+			<Text>Erika</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_3" Language="en_US">
+			<Text>Andrea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_4" Language="en_US">
+			<Text>Kayle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_5" Language="en_US">
+			<Text>Karma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_6" Language="en_US">
+			<Text>Leona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_7" Language="en_US">
+			<Text>Panam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_8" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_9" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_JRA_CIV_CUSTOM_MODERN_FEMALE_10" Language="en_US">
+			<Text>Some Modern Girl</Text>
+		</Row>
+		
+		
+		
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_JRA_LEADER_CUSTOM_NAME" Language="en_US">
+			<Text>Dragon</Text>
+		</Row>
+
+		
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JRA_LEADER_CUSTOM" Language="en_US">
+			<Text>...</Text>W
+		</Row>
+		
+		
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_TITLE" Language="en_US">
+			<Text>Dragon</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_SUBTITLE" Language="en_US">
+			<Text>Leader of Dovahtuz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_QUOTE" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JRA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text></Text>
+		</Row>
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>What's up?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Wanna hangout?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Nice</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Share capitals?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Yo</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Sure</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Nah</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Want a delegation?</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Nice</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Nope</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Open borders?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Dope</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Why?</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Friends?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Cool</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Oh...</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Alliance?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Nice work</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Do better</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I see those troops</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Wait, what?</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I denounce you (Denounces You)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Ok</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I'm bored of you, time to get taken out the game you absolute pest!</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Meh, I was bored anyway...</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>NEVER!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Right, I'm getting loads of war weariness... So let's make peace then carry on later...</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Ow</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JRA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JRA_LEADER_CUSTOM_ANY]</Text>
+		</Row>
+
+
+
+
+		
+		
+		
+		
+		
+		
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_JRA_LEADER_CUSTOM_ECO_NAME" Language="en_US">
+			<Text>Wheeler Dealer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JRA_LEADER_CUSTOM_ECO_DESCRIPTION" Language="en_US">
+			<Text>+1 Extra Economic Slot in any government.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JRA_GRIND_NAME" Language="en_US">
+			<Text>The Grind</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_JRA_GRIND_DESCRIPTION" Language="en_US">
+			<Text>+50% Experience for all units. When killing a unit, you recieve [Icon_Gold] Gold equal to it's Combat Strength.</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_BUILDING_JRA_CUSTOM_NAME" Language="en_US">
+			<Text>Barbarian Hate Club</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JRA_CUSTOM_DESCRIPTION" Language="en_US">
+			<Text>+1 [Icon_Strength] Combat Strength Vs Barbarians for each Hate Club built.</Text>
+		</Row>
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</LocalizedText>
+</GameData>
