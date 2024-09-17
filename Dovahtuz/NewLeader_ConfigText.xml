@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_DOVAHTUZ_NAME" Language="en_US">
+			<Text>Dovahtuz</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_DOVAHTUZ_DESCRIPTION" Language="en_US">
+			<Text>Dovahtuz</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_DOVAHTUZ_ADJECTIVE" Language="en_US">
+			<Text>Adjective</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_DOVAHTUZ" Language="en_US">
+			<Text>Dragon</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DOVAHTUZ_NAME" Language="en_US">
+			<Text>Civ Trait Name</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DOVAHTUZ_DESCRIPTION" Language="en_US">
+			<Text>Civ Trait Description</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_DOVAHTUZ_NAME" Language="en_US">
+			<Text>Leader Trait Name</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DOVAHTUZ_DESCRIPTION" Language="en_US">
+			<Text>Leader Trait Desc</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_DOVAHTUZ_NAME" Language="en_US">
+			<Text>Building Name</Text>
+		</Row>
+		
+		<Row Tag="LOC_BUILDING_DOVAHTUZ_DESCRIPTION" Language="en_US">
+			<Text>Building Description</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
